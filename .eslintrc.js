@@ -21,6 +21,7 @@ module.exports = {
     '_': 'readonly',
     '$': 'readonly',
     'Vue': 'readonly',
+    'moment': 'readonly'
   },
   parserOptions: {
     parser: "babel-eslint",
