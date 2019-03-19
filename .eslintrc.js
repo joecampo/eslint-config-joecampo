@@ -16,6 +16,12 @@ module.exports = {
       }
     ]
   },
+  globals: {
+    'axios': 'readonly',
+    '_': 'readonly',
+    '$': 'readonly',
+    'Vue': 'readonly',
+  },
   parserOptions: {
     parser: "babel-eslint",
     ecmaVersion: 2018
