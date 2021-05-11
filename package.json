@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-joecampo",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "ESLint & Prettier configuration",
   "repository": "git@github.com:joecampo/eslint-config-joecampo.git",
   "main": "index.js",
